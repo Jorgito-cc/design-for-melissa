@@ -63,13 +63,13 @@ const CartaMelissaBTS = () => {
 
             {/* Mensaje de Jorge */}
             <div className="space-y-4 md:space-y-6 text-slate-600 text-base md:text-lg leading-relaxed font-light">
-              <p className="text-lg md:text-xl font-medium text-[#6d4c7d]">¡Hola Meli! </p>
+              <p className="text-lg md:text-xl font-medium text-[#6d4c7d]">¡Hola Meliii! </p>
               <p>
-                Quería desearte que te vaya muy bien este año por tu cumple. 
-                Espero que sigas dándole con todo a tus <span className="text-[#6b46c1] font-semibold italic">estudios y a tus proyectos</span> de diseño, ¡tienes mucho talento!
+                wiiii!! En este dia que esta a punto de acabar quiero desearte que te vaya muy bien este año por tu cumpleañoss. 
+                Espero que sigas dándole con todo a tus <span className="text-[#6b46c1] font-semibold italic">estudios y a tus proyectos</span> de diseño, la verdad  ¡tienes mucho talento!
               </p>
               <p>
-                Que pases un día genial y que este nuevo año de vida venga lleno de cosas buenas para ti.
+                Que pases una noche genial y que este nuevo año de vida venga lleno de cosas buenas para ti.
               </p>
             </div>
 
