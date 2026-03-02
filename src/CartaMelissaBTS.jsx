@@ -23,7 +23,7 @@ const CartaMelissaBTS = () => {
             </p>
           </button>
           <p className="mt-6 text-[#6d4c7d]/50 text-[10px] font-sans tracking-widest animate-pulse">
-            Click PARA REVELAR
+            CLICK PARA REVELAR
           </p>
         </div>
       ) : (
@@ -36,7 +36,7 @@ const CartaMelissaBTS = () => {
               <div className="bg-[#1e4ccf] text-white text-3xl md:text-5xl font-bold px-4 py-2 md:px-5 md:py-3 shadow-2xl transform -rotate-3 mb-2 md:mb-4">
                 2026
               </div>
-              <p className="text-white text-[8px] md:text-[10px] tracking-[0.6em] font-sans uppercase font-black">-----</p>
+              <p className="text-white text-[8px] md:text-[10px] tracking-[0.6em] font-sans uppercase font-black">-------</p>
             </div>
             {/* Detalles de líneas decorativas (solo visibles en desktop para no saturar) */}
             <div className="hidden md:block absolute top-0 left-8 w-[1px] h-full bg-white/20"></div>
@@ -55,7 +55,7 @@ const CartaMelissaBTS = () => {
 
             <header className="mb-6 md:mb-10 text-left">
               <h1 className="text-3xl md:text-5xl font-light text-slate-800 tracking-tight leading-tight">
-                ¡Feliz Cumple, <br />
+                ¡Feliz Cumpleeee, <br />
                 <span className="text-[#6d4c7d] font-bold italic">Meli!</span>
               </h1>
               <div className="h-1 md:h-1.5 w-12 md:w-16 bg-[#b39ddb] mt-4 md:mt-6 rounded-full"></div>
