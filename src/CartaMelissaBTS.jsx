@@ -19,11 +19,11 @@ const CartaMelissaBTS = () => {
           >
             <span className="text-4xl md:text-5xl block group-hover:animate-bounce mb-4">🎁</span>
             <p className="text-[#6d4c7d] font-sans tracking-[0.2em] md:tracking-[0.4em] uppercase text-[10px] md:text-xs font-black">
-              Abrir regalo para Meli
+              Para Meli
             </p>
           </button>
           <p className="mt-6 text-[#6d4c7d]/50 text-[10px] font-sans tracking-widest animate-pulse">
-            TAP PARA REVELAR
+            Click PARA REVELAR
           </p>
         </div>
       ) : (
